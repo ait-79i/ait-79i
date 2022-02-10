@@ -10,12 +10,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 💬 ask me about anything, i am happy to help;
 
-- 👋 Hi, I’m @ait-79i
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on .
-
-
 Skills: VUE JS / REACT / JS / HTML / CSS/PYTHON
 
 - 🔭 I’m currently working on this page. 

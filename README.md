@@ -9,7 +9,14 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 💼 any freelance work? do reach, <a href="abdelkarimaithqi@gmail.com">email</a> :)
 
 💬 ask me about anything, i am happy to help;
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 
 - 👋 Hi, I’m @ait-79i
 - 👀 I’m interested in ...

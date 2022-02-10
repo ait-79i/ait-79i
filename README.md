@@ -14,7 +14,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on .
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 ait-79i/ait-79i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

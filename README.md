@@ -15,13 +15,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on .
 
-### Hi there 👋, my name is Abdelkarim AIT HQI
-#### I am  a Full Stack Developper
-![I am  a Full Stack Developper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-Hi, i'm Abdelkarim AIT HQI, a full stack web developer from MOROCCO. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, learning, learning from others experiences, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 Skills: VUE JS / REACT / JS / HTML / CSS/PYTHON
 

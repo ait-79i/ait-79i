@@ -1,5 +1,5 @@
 ### Hello World👋,I'm Abdelkarim {Full Stack Developper}
-<img align="right" alt="GIF" src="https://github.com/ait79i/web-pic/blob/main/mine.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/ait-79i/images/blob/main/code.gif" width="500" height="320" />
 
 
 hi, i'm Abdelkarim AIT HQI, a full stack web developer from MOROCCO. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, learning, learning from others experiences, and code quality of the things I build.

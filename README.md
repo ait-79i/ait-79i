@@ -1,5 +1,5 @@
 ### Hello World👋I'm Abdelkarim {Full Stack Developper}<hr/>
-<img align="right" alt="GIF" src="https://github.com/ait-79i/images/blob/main/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/ait-79i/images/blob/main/mine.gif" width="500" height="320" />
 
 
 Hi, I'm Abdelkarim AIT HQI, a development student from MOROCCO. I still a student as I said earlier and I am very impressed with this area (programming) and I will work hard according to my roadmap until I became a software engineer. i take great care in the experience, learning, learning from others experiences, and code quality of the things I build.

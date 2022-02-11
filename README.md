@@ -13,6 +13,5 @@ I learned a lot from the open-source community and i love how collaboration and 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ait-79i)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100009116640205)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ait79i/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ait_79i)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ait-79i=compact)](https://github.com/ait-79i/ait-79i/blob/main/README.md)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ait-79i&show_icons=true) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ait-79i&show_icons=true) 

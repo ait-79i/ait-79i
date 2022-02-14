@@ -8,7 +8,7 @@ I started learning programming with Python and I look forward with passion to le
 
 I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-💬 ask me about anything, i am happy to <a href="abdelkarimaithqi@gmail.com">help</a>
+💬 ask me about anything, i am happy to <a href="abdelkarimaithqi@gmail.com">answer</a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ait-79i)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100009116640205)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ait79i/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ait_79i)  

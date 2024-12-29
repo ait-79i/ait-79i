@@ -10,9 +10,6 @@ I’m deeply inspired by the open-source community and believe in the power of c
 
 When I’m not coding, you’ll find me brainstorming new ideas, learning cutting-edge technologies, or collaborating on innovative projects that push the boundaries of what’s possible.
 
-💬  Feel free to ask me anything! I'm happy to <a href="abdelkarimaithqi@gmail.com">answer</a>
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ait-79i)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100009116640205)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ait79i/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ait_79i)  
 
 ![Profile views](https://komarev.com/ghpvc/?username=ait-79i&color=green) 

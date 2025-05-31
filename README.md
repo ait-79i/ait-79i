@@ -28,12 +28,11 @@ Hi, I'm Abdelkarim AIT HQI, a passionate Full Stack Developer from Morocco. I sp
 I'm deeply inspired by the open-source community and believe in the power of collaboration and continuous learning. Whether it's contributing to projects, mentoring, or simply exploring new tech, I'm always eager to grow and share knowledge.
 
 ### 📫 Connect with me
-<div style="background-color: #f6f8fa; padding: 10px; border-radius: 6px; display: inline-block;">
-  <a href="https://github.com/ait-79i"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="margin: 0 10px; filter: invert(0.5);"></a>
-  <a href="https://www.facebook.com/100009116640205"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' style="margin: 0 10px; filter: invert(0.5);"></a>
-  <a href="https://www.instagram.com/ait79i/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style="margin: 0 10px; filter: invert(0.5);"></a>
-  <a href="https://twitter.com/@ait_79i"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style="margin: 0 10px; filter: invert(0.5);"></a>
-</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ait-79i)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/100009116640205)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ait79i/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@ait_79i)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ait-79i&color=green) 
 <br/>

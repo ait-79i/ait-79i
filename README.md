@@ -1,15 +1,33 @@
 ## Hello World 👋<hr/>
 <img align="right" alt="GIF" src="https://github.com/ait-79i/images/blob/main/mine.gif" width="500" height="320" />
 
+Hi, I'm Abdelkarim AIT HQI, a passionate Full Stack Developer from Morocco. I specialize in building modern, efficient, and scalable web applications using a diverse tech stack.
 
-Hi, I'm Abdelkarim AIT HQI, a passionate Symfony, React, and JavaScript developer from Morocco. I specialize in building modern, efficient, and scalable web applications. My journey in the tech world has led me to work with various frameworks and technologies, including NestJS for backend development.
+### 🚀 My Tech Stack
+- **Frontend**: React, Vue.js, Angular, TypeScript
+- **Backend**: Symfony, NestJS, PHP
+- **DevOps**: Docker, GitHub Actions, Traefik, GitLab
+- **Testing**: Cypress, Jest
+- **Project Management**: Jira, Agile methodologies
 
-With a strong foundation in PHP and JavaScript, I enjoy creating seamless user experiences on the frontend and robust APIs on the backend. My expertise in Symfony and React allows me to deliver high-quality software solutions that make a difference.
+### 💼 Professional Experience
+- **Full Stack Developer** at Ice Animation (Remote, France) - Working with NestJS and Vue.js to build SaaS platforms for AI assistants
+- **Full Stack Developer** - Building web applications with Symfony and React, creating RESTful APIs, and optimizing database performance
 
-I’m deeply inspired by the open-source community and believe in the power of collaboration and continuous learning. Whether it’s contributing to projects, mentoring, or simply exploring new tech, I’m always eager to grow and share knowledge.
+### 🌱 What I'm passionate about
+- Building scalable and maintainable applications
+- Creating seamless user experiences
+- Implementing CI/CD pipelines for efficient development workflows
+- Following best practices (SOLID, DRY) and writing clean code
 
-When I’m not coding, you’ll find me brainstorming new ideas, learning cutting-edge technologies, or collaborating on innovative projects that push the boundaries of what’s possible.
+### 🎓 Education
+- **Diplôme de Technicien Spécialisé: Full Stack** - ISTA NTIC SYBA Marrakech
+- **DEUG en Sciences Économiques et de Gestion** - Faculté des sciences juridiques et sociales FSJES
+- **Baccalauréat en Physique-Chimie** - Riad Zahya Tamansourt
 
+I'm deeply inspired by the open-source community and believe in the power of collaboration and continuous learning. Whether it's contributing to projects, mentoring, or simply exploring new tech, I'm always eager to grow and share knowledge.
+
+### 📫 Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ait-79i)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100009116640205)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ait79i/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ait_79i)  
 
 ![Profile views](https://komarev.com/ghpvc/?username=ait-79i&color=green) 
